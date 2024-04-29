@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["tensor-programming <abeltensor@tensor-programming.com>"]
 
 [dependencies]
-yew = {git = "https://github.com/DenisKolodin/yew"}
+yew = {git = "https://github.com/RadinaAvramova/yew"}
